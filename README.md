@@ -30,4 +30,4 @@ The project models a smart city infrastructure where multiple intelligent device
 2. Open your terminal or command prompt in this folder.
 3. Run:
    ```bash
-   python main.py
+   python Owusu_Nana_Kwarteng_smart_traffic_system.py
